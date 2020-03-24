@@ -2,8 +2,6 @@
 
 ### Todolist
 
-```
-![Drag Racing](Dragster.jpg)
-```
 
-![](./sync.gif)
+
+![](https://github.com/norvca/pictures/blob/master/sync.gif)
