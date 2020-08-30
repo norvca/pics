@@ -1,7 +1,3 @@
 # pictures
 
-### Todolist
-
-
-
-![](https://github.com/norvca/pictures/blob/master/sync.gif)
+### pictures for projects
