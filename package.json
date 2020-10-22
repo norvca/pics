@@ -1,0 +1,20 @@
+{
+  "name": "pics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "git add -A && git commit -m 'add: pic' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norvca/pics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norvca/pics/issues"
+  },
+  "homepage": "https://github.com/norvca/pics#readme"
+}
