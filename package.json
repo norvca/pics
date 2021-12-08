@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/norvca/pics/issues"
   },
-  "homepage": "https://github.com/norvca/pics#readme"
+  "homepage": "https://github.com/norvca/pics#readme",
+  "dependencies": {}
 }
